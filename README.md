@@ -69,6 +69,3 @@ src/
           └── database-init.sql
 📦 Deployment
 This app is containerized with Docker and deployed to AWS App Runner with auto-scaling support.
-
-📜 License
-This project is open-source and free to use.
